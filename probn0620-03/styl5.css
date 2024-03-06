@@ -1,0 +1,39 @@
+body{
+    font-family: arial;
+    width: 1202px;
+}
+#baner{
+    display: flex;
+}
+#baner1{
+    background-color: #483d8b;
+    color: white;
+    height: 150px;
+    width: 30%;
+}
+#baner2{
+    background-color: #483d8b;
+    color: white;
+    height: 150px;
+    width: 70%;
+}
+.dzien{
+    width: 150px;
+    height: 100px;
+    padding: 3px;
+    border: 1px solid black;
+    background-color: #afeeee;
+}
+#glowny{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2px;
+}
+#stopka{
+    background-color: #483d8b;
+    color: white;
+    padding: 10px;
+}
+h5{
+    text-align: center;
+}
